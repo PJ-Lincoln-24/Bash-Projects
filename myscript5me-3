@@ -91,7 +91,7 @@ then
 	echo -e "\n This program will now close"
 	sleep 2
 	clear
-	echo -e "\e[31mGoodBye\e[0m"
+	echo -e "\e[32mGoodBye\e[0m"
 	sleep 2
 	clear
 
