@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# myscript5c - Same as myscript5b except that code has been added to add a choice to the menu to exit from the script. There is additional code added for bells and whistles - Can you find it?
+#-3-Systems_functions
 
 clear
 
